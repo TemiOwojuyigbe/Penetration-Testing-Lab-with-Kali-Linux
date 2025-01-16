@@ -30,7 +30,6 @@ OWASP Juice Shop is a deliberately insecure web application used for security tr
 - **Nmap**: Network mapping and service enumeration.
 - **Nikto**: Web server vulnerability scanner.
 - **wget** and **curl**: File retrieval and analysis.
-- **Gobuster**: Directory brute-forcing.
 - **OWASP Juice Shop**: Vulnerable target application.
 
 ---
@@ -53,7 +52,7 @@ OWASP Juice Shop is a deliberately insecure web application used for security tr
 - Found:
   - `acquisitions.md` containing confidential mock data.
   - `encrypt.pyc`, which hinted at encrypted content requiring decompilation.
-- Explored directory structures using `Gobuster` to uncover hidden paths.
+
 
 ---
 
